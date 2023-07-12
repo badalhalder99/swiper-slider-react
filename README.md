@@ -1,1 +1,1 @@
-# swiper-slider-react
+### How to use Swiper js for beginners with react js
