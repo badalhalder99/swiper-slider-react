@@ -95,4 +95,4 @@ const MySwiperSlider = () => {
 export default MySwiperSlider;
 ```
 #### **NOTE:**
-When you work on the local file then you can use the update swiper js package. Else, you use this code. The code is fully responsive.
+When you work on the local file then you can use the update swiper js package. Else, if you code on stackblitz you use this code. The code is fully responsive.
