@@ -1,9 +1,9 @@
-### How to use Swiper js for beginners with react js 
+## How to use Swiper js for beginners with react js 
 
-#### First Step(Installation):
+### First Step(Installation):
  ``` npm install --save swiper@6.4.1 ```
  
-#### Second Step(import the necessary file below):
+### Second Step(import the necessary file below):
 ``` js
 import React, { useEffect } from 'react'; 
 import SwiperCore, {
@@ -94,3 +94,5 @@ const MySwiperSlider = () => {
 
 export default MySwiperSlider;
 ```
+#### **NOTE:**
+When you work on the local file then you can use the update swiper js package. Else, you use this code. The code is fully responsive.
