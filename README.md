@@ -70,11 +70,6 @@ const MySwiperSlider = () => {
         },
       },
     });
-
-    // Clean up Swiper instance on unmount
-    return () => {
-      swiper.destroy();
-    };
   }, []);
 
   return (
