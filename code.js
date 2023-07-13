@@ -1,10 +1,3 @@
-### How to use Swiper js for beginners with react js
-
-#### First Step(Installation):
- npm install --save swiper@6.4.1
- 
-#### Second Step(import the necessary file below):
-
 import React, { useEffect } from 'react'; 
 import SwiperCore, {
   EffectCoverflow,
@@ -70,11 +63,6 @@ const MySwiperSlider = () => {
         },
       },
     });
-
-    // Clean up Swiper instance on unmount
-    return () => {
-      swiper.destroy();
-    };
   }, []);
 
   return (
